@@ -15,7 +15,7 @@ st.set_page_config(
     page_icon="💬",
     layout="centered"
 )
-st.title("💬 Generative AI Chatbot")
+st.title("💬 Generative AI Chatbot - Pramod Reddy Lankala")
 
 #initiate chat history
 # chat_history = []
@@ -53,4 +53,5 @@ if user_prompt:
     # print(st.session_state.chat_history)
 
     # with st.chat_message("assistant"):
+
     #     st.markdown(assistant_response)
